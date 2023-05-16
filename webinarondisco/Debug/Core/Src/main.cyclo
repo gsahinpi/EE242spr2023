@@ -1,0 +1,8 @@
+main.c:86:5:main	2
+main.c:153:6:SystemClock_Config	3
+main.c:195:13:MX_ADC1_Init	3
+main.c:247:13:MX_TIM1_Init	5
+main.c:312:13:MX_GPIO_Init	1
+main.c:329:6:HAL_TIM_PWM_PulseFinishedCallback	2
+main.c:336:6:HAL_TIM_PeriodElapsedCallback	2
+main.c:349:6:Error_Handler	1
